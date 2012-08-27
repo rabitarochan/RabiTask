@@ -1,0 +1,8 @@
+# visual studio
+*.suo
+*.user
+bin/
+obj/
+
+# resharper
+/_ReSharper.*
